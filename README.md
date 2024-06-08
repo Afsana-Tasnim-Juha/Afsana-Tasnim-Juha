@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/71846a30c5f2a540d3924d924450a2048138ad7095e40f8a1950c6bee470371d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63392f64362f33642f63396436336430333262653233613739333765346438643835663761363635302e676966)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Afsana Tasnim Juha</h1>
 <h3 align="center">A passionate full stack developer</h3>
