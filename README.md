@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsana-tasnim-juha&show_icons=true&locale=en&layout=compact" alt="afsana-tasnim-juha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsanatasnimjuha&show_icons=true&locale=en" alt="afsanatasnimjuha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsana-tasnim-juha&show_icons=true&locale=en" alt="afsana-tasnim-juha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsanatasnimjuha&" alt="afsanatasnimjuha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsana-tasnim-juha&" alt="afsana-tasnim-juha" /></p>
