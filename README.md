@@ -1,7 +1,9 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Afsana Tasnim Juha</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="coding" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" />
+<img align="right" alt="coding" width="400"  src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsanatasnimjuha&label=Profile%20views&color=0e75b6&style=flat" alt="afsanatasnimjuha" /> </p>
