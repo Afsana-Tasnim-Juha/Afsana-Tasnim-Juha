@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afsana Tasnim Juha</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img align="right" alt="coding" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" />
 
