@@ -9,11 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsanatasnimjuha&label=Profile%20views&color=0e75b6&style=flat" alt="afsanatasnimjuha" /> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🧠 Expertise in **Neural Networks, NLP, Autonomous Systems**, and **Frontend Development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afsana-Tasnim-Juha](https://github.com/Afsana-Tasnim-Juha)
 
 - 💬 Ask me about **react, Node, PHP**
+  
+- 🔭 Combining **AI** with **React** to build dynamic and scalable applications.
 
 - 📫 How to reach me **tasnim.afsana.juha@gmail.com**
 
