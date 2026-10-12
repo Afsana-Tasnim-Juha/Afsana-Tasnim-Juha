@@ -14,8 +14,9 @@ Before that, I earned an MS in Automotive Software Engineering(Completed coursew
 
 ## 🚀 Featured work
 - 📊 **[Customer Shopping Behavior](https://github.com/Afsana-Tasnim-Juha/Customer_Behavior_Analysis_project)**: SQL, Python, and Power BI analysis of 3,900 customer records
-- 🤖 **[ML Application GUI](link)**: Streamlit app comparing logistic regression, random forest, and XGBoost
-- 🌱 **[Community Food Redistribution Platform](link)**: MERN app with Firebase auth
+- 🤖 **[ML Application GUI](https://github.com/robertrood-se/HCI)**: Streamlit app comparing logistic regression, random forest, and XGBoost (team project)
+- 🌱 **[Community Food Redistribution Platform]([link](https://github.com/Afsana-Tasnim-Juha/Community_Food_Redistribution_Platform_Client))**: MERN app with Firebase auth
+- ⛏️ **[Mining EV Registration Patterns in Washington State](https://github.com/Afsana-Tasnim-Juha/Data-Mining-Project-F26)**: clustering, association rule mining, and anomaly detection on 50,000 sampled records from the WA Department of Licensing EV population data (team project)
 
 ## 📄 Publications
 IEEE ICIoT 2020 (smart wheelchair with gesture/voice control) · IJIEE 2020 (border cross detection system)
