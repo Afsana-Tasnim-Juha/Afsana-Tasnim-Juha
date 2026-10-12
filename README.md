@@ -8,7 +8,7 @@ institutional data in Handshake and supporting First Destination Survey reportin
 Before that, I earned an MS in Automotive Software Engineering(Completed coursework) at TU Chemnitz, Germany.
 
 ## 🛠️ Skills
-**Data & ML:** Python · Pandas · NumPy · scikit-learn · XGBoost · TensorFlow · Matplotlib · Seaborn · SQL · Power BI
+**Data & ML:** Python · Pandas · NumPy · scikit-learn · XGBoost · TensorFlow · Matplotlib · Seaborn · SQL · Power BI . Tableau 
 **Web:** React · Node.js · Express · MongoDB · MySQL · Firebase · Tailwind CSS · PHP
 **Tools:** Git · Jupyter · Streamlit · AWS
 
