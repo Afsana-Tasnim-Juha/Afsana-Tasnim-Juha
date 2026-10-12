@@ -13,7 +13,7 @@ Before that, I earned an MS in Automotive Software Engineering(Completed coursew
 **Tools:** Git · Jupyter · Streamlit · AWS
 
 ## 🚀 Featured work
-- 📊 **[Customer Shopping Behavior](link)**: SQL, Python, and Power BI analysis of 3,900 customer records
+- 📊 **[Customer Shopping Behavior](https://github.com/Afsana-Tasnim-Juha/Customer_Behavior_Analysis_project)**: SQL, Python, and Power BI analysis of 3,900 customer records
 - 🤖 **[ML Application GUI](link)**: Streamlit app comparing logistic regression, random forest, and XGBoost
 - 🌱 **[Community Food Redistribution Platform](link)**: MERN app with Firebase auth
 
